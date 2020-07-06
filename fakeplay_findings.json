@@ -165,7 +165,8 @@
         "pathConstraints": true
       },
       "ID": 1,
-      "description": "This malicious flow leaks telephoney network information via email."
+      "description": "This malicious flow leaks telephoney network information via email.",
+      "isNegative": false
     },
     {
       "source": {
@@ -324,7 +325,8 @@
         "pathConstraints": true
       },
       "ID": 2,
-      "description": "This malicious flow leaks telephone number via email."
+      "description": "This malicious flow leaks telephone number via email.",
+      "isNegative": false
     }
   ]
 }
